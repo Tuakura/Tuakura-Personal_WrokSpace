@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LCD_SPI",
+            "type": "ccs-debug",
+            "request": "launch",
+            "project": "LCD_SPI",
+            "debuggerSettings": {
+                "targetConfigs/MSPM0G3507.ccxml": {
+                    "Texas Instruments XDS110 USB Debug Probe/CORTEX_M0P": {
+                        "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                    }
+                }
+            }
+        }
+    ]
+}
